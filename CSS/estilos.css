@@ -1,3 +1,40 @@
+p{
+    font-style:normal;
+    color: rgb(0, 0, 0);
+}
+
+.clase{
+    font-size:large;
+
+}
+
+#identificador{
+    margin: 10px;
+}
+
+h1{
+   margin-left: 35%;
+   margin-right: auto;
+   font-size: xx-large; 
+   font-style: unset;
+}
+
+h3{
+    font-size: x-large;
+    margin-left: 45%;
+}
+
+
+h2{
+    margin-left: 33%;
+    margin-right: auto;
+}
+
+img{
+    margin-left: 20%;
+    margin-right: auto;
+}
+
 .caja{
     display: flex;
     height: auto;
@@ -16,7 +53,7 @@
     gap: 10px;
 }
 
-.grio-item{
+.grid-item{
     background-color: coral;
     padding: 20px;
 }
