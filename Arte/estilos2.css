@@ -1,0 +1,63 @@
+p{
+    text-align: center;
+    font-size:xx-large;
+    color:rgb(204, 128, 241);
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(87, 185, 241);
+    font-size: xx-large;
+}
+
+a{
+    margin-inline-start: 37%;
+    font-size: xx-large;
+}
+
+b{
+    text-align: center;
+    color: crimson;
+    font-size: xx-large;
+}
+
+.bevan-regular {
+    font-family: "Bevan", serif;
+    font-weight: 4000;
+    font-style: normal;
+  }
+  
+  .bevan-regular-italic {
+    font-family: "Bevan", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+
+  
+
+
+.archivo {
+  font-family: "Archivo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+  .contenedor{
+    display: flex;
+
+  }
+
+ header{
+    width: auto;
+    height: auto;
+    justify-content:space-around;
+    background-image: url(cat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: saturation;
+ }
